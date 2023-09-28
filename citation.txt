@@ -1,0 +1,1 @@
+Wegmueller, P., Glocker, C. (2023): US Weekly Economic Index: Replication and extension (replication data). Version: 1. Journal of Applied Econometrics. Dataset. https://doi.org/10.15456/jae.2023075.0909504723
